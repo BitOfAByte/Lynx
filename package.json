@@ -1,0 +1,24 @@
+{
+  "name": "mandroc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.6.1",
+    "discord.js": "^12.2.0",
+    "fs": "0.0.1-security",
+    "node-fetch": "^2.6.0",
+    "path": "^0.12.7",
+    "snekfetch": "^4.0.4",
+    "sqlite": "^4.0.7",
+    "vultrex.db": "^1.4.1",
+    "vultrex.haste": "^1.0.1"
+  }
+}
